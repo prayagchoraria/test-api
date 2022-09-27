@@ -8,5 +8,5 @@
     "model": { "string": {} },
     "color": { "string": {} },
     "location": { "string": {} },
-  },
+  }
 }

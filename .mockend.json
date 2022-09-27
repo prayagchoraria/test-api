@@ -1,0 +1,12 @@
+{
+  "User": {
+    "username": { "string": {} },
+    "password": { "string": {} },
+    "role": { "string": {} },
+  },
+  "Bike": {
+    "model": { "string": {} },
+    "color": { "string": {} },
+    "location": { "string": {} },
+  },
+}

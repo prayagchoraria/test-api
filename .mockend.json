@@ -2,7 +2,7 @@
   "User": {
     "username": { "string": {} },
     "password": { "string": {} },
-    "role": { "string": {} }
+    "isAdmin": { "boolean": {} }
   },
   "Bike": {
     "model": { "string": {} },
